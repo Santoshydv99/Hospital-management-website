@@ -41,7 +41,6 @@ A running backend server (see the backend section for setup instructions).
 Installation
 Clone the repository:
 
- git clone https://github.com/Fairooz2150/Hospital-Management-System.git
 First open Hospital-Management-System folder:
 cd Hospital-Management-System
 Navigate to each folder and install dependencies:
